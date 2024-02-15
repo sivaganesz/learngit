@@ -4,6 +4,6 @@ c=3090
 d=(a+b+c)
 print(d)
 
-
+print("sollu ga siva muthu narayana")
 
 # siva  muthu narayanan sabari ganesz  
